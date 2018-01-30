@@ -1,0 +1,6 @@
+[submodule "trezor-crypto"]
+	path = trezor-crypto
+	url = https://github.com/trezor/trezor-crypto
+[submodule "evmjit"]
+	path = evmjit
+	url = https://github.com/ethereum/evmjit
