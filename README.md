@@ -1,6 +1,8 @@
-# E3VM
+# Jerboa
 
 aka. "Embedded EVM-C-compatible Ethereum VM"
+
+Jerboa is an EVM implementation written in C++, but without using the C++ standard library. It implements the EVM-C interface.
 
 The goal of this project is to provide a compact and portable EVM implementation, which can also be compiled using Emscripten to Javascript or to WebAssembly.
 
